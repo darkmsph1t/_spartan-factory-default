@@ -1,2 +1,7 @@
-# _spartan-factory-default
-single file repo (not including README) with the default policy for _spartan generated security policies
+# \_spartan-factory-default
+SHA-384 hash : KjY+WuZRmDHCqiHS2wHL/CHs5/Kj8RUhq7xEqVeRVCM3BEnDL0lpxocutJHYP3e1
+
+## Hash it yourself!
+```
+shasum -b -a 384 security-default.json | xxd -r -p | base64
+```
