@@ -1,5 +1,5 @@
 # \_spartan-factory-default
-SHA-384 hash : KjY+WuZRmDHCqiHS2wHL/CHs5/Kj8RUhq7xEqVeRVCM3BEnDL0lpxocutJHYP3e1
+SHA-384 hash : Mf8DVc4nyzXNvxw5zKRRotA7N4p8JvduNkNYYUTyHL8bFDyq8f/y4P51IN/6b1DC
 
 ## Hash it yourself!
 ```
